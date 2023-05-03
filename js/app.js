@@ -6,4 +6,4 @@ const pictures = [
   "contBcg-4"
 ];
 
-// buena suerte
+// buena suerte dina 
